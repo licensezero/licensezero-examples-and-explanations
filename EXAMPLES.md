@@ -24,7 +24,7 @@ Jump to:
 
 <https://browserify.org>
 
-Browserify compiles JavaScript programs that require npm packages into bundles of code for web browsers.  Developers user Browserify to combine their own code with code from others' packages to make applications that run in the browser.
+Browserify compiles JavaScript programs that require npm packages into bundles of code for web browsers.  Developers use Browserify to combine their own code with code from others' packages to make applications that run in the browser.
 
 ### Browserify Under [Parity]
 
