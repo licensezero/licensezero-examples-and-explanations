@@ -20,4 +20,4 @@ Hours and hours of work, plus tons of inside and outside feedback, went into mak
 
 [Prosperity]: https://licensezero.com/licenses/prosperity
 
-[guide]: https://guide.licensezero.com/
+[guide]: https://guide.licensezero.com/#public-licenses
